@@ -1,1 +1,17 @@
 /* your code */
+table,td,th {
+text-align: left;
+	border-collapse:collapse;
+	padding: 10px;
+}
+th {
+  background-color:lightgoldenrodyellow;
+}
+table{
+}
+#two_and_four{
+background-color: lightgray;
+}
+#one_and_three{
+	background-color: lightblue
+}
