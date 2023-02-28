@@ -1,11 +1,11 @@
 /* your code */
 table,td,th {
 text-align: left;
-	border-collapse:collapse;
-	padding: 10px;
+border-collapse:collapse;
+padding: 10px;
 }
 th {
-  background-color:lightgoldenrodyellow;
+background-color:lightgoldenrodyellow;
 }
 table{
 }
@@ -13,5 +13,5 @@ table{
 background-color: lightgray;
 }
 #one_and_three{
-	background-color: lightblue
+background-color: lightblue
 }
